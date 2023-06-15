@@ -1,0 +1,27 @@
+﻿  CourseList.cpp
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(180,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(183,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(186,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(189,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(192,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(195,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(198,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(201,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(204,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(207,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(210,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\CourseList.cpp(213,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\main.cpp(52,13): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\main.cpp(203,31): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\main.cpp(253,43): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\main.cpp(310,43): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\main.cpp(344,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\main.cpp(502,35): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  PersonalInfoList.cpp
+  SemesterList.cpp
+  StudentList.cpp
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\StudentList.cpp(464,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\Prototype 2.0\StudentList.cpp(476,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Prototype 2.0.vcxproj -> C:\USM\Y1S2\CPT113\Assignments\Prototype 2.0\x64\Debug\Prototype 2.0.exe
